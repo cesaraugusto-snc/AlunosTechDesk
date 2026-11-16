@@ -30,13 +30,16 @@ O sistema segue os princípios da Engenharia de Software moderna, utilizando uma
 ## 📸 Demonstração do Sistema
 
 * **Documentação da API via Swagger UI**
-<img width="800" alt="Swagger UI" src="https://github.com/user-attachments/assets/fe92a420-ada1-458a-9e98-3ef2049cd9ce" />
+<img width="1681" height="1056" alt="Swagger Web" src="https://github.com/user-attachments/assets/5ff38051-f098-43d7-87f5-5ff203e5a5d2" />
+
 
 * **Painel de Autenticação / Login**
-<img width="800" alt="Tela de Login" src="https://github.com/user-attachments/assets/0e1e2902-1ba4-4852-b89d-ec770ece4cdd" />
+<img width="567" height="355" alt="Imagem3" src="https://github.com/user-attachments/assets/c74c696a-dda5-4892-81a7-4ea1cf4e6320" />
+
 
 * **Painel de Chamados Web**
-<img width="800" alt="Painel Web" src="https://github.com/user-attachments/assets/c2fc9f16-ca61-4c9b-b9eb-4d3c6f94ab9e" />
+<img width="1680" height="1038" alt="alunostechpainel" src="https://github.com/user-attachments/assets/a1373567-84a0-4501-a39b-6180e522f29b" />
+
 
 ---
 
